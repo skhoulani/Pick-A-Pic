@@ -1,2 +1,3 @@
-# Pick-A-Pic
+# Pick-A-Pic - First Milestone
 Android App final Project
+
