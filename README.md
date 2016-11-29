@@ -3,7 +3,11 @@ Android App Final Project
 ### Second Milestone:
 
 
-***Connor McLaughlin***: *First Milestone - I’ve worked on the Database. I now have small database that has Tokens for the picture ID, Category, and descriptions. The descriptions get more general as they go on so that people can get more points for degree of difficulty. Right now the database is in Microsoft Access but I plan on converting it to something that Java can read. I also have queries to find a random object then find objects that have the same category to increase difficulty.*
+***Connor McLaughlin***: *Second Milestone This week I took what I made for the first milestone and transfered it over to Android Studio. I submitted the folder labeled DB. In this folder there is a Database in the DB folder and class called File Read that is used to get values from a text file that is formatted: Image_Ref Category Discription Alt_Discription(Optional). At the moment I'm having issues with the final line of this code when I try to put it in the database. I'm hoping to resolve this in class Tuesday. I figured I'd submit just the folder because It would be easier to put the database into the UI project than the UI into the Database project.*
+
+
+
+*First Milestone - I’ve worked on the Database. I now have small database that has Tokens for the picture ID, Category, and descriptions. The descriptions get more general as they go on so that people can get more points for degree of difficulty. Right now the database is in Microsoft Access but I plan on converting it to something that Java can read. I also have queries to find a random object then find objects that have the same category to increase difficulty.*
 
 ***Connor McGrory***: *First Milestone - I have created the image pixelizer program that will be used as the main game feature for this project.  When the program is run, the image is drawn using only a few large pixels (averaging all underlying colors).  Slowly the number of pixels is increased giving a “coming into focus” effect.  I wrote all of this in Java, but not in Android Studio.  It started as a computer application so I will need to make major changes to make it compatible.*
 
