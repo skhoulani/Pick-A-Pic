@@ -11,3 +11,8 @@ Android App Final Project
 
 ***Samir Khoulani***:  Thus far I have researched various UI design patterns for games. The current idea we are currently moving forward involves a fullscreen activity which will be completely taken up by the game. There will be three views: the Main Menu, the Game Screen, and the Game Over screen. Additionally, although it is my plan to eventually implement google play high scores, for now we will be relying on a local "Best" score on the Game Over screen so the user can keep track of their highest score so far.
 
+
+
+### Second Milestone:
+
+***Connor McLaughlin**: This week I took what I made for the first milestone and transfered it over to Android Studio. I submitted the folder labeled DB. In this folder there is a Database in the DB folder and class called File Read that is used to get values from a text file that is formatted: Image_Ref Category Discription Alt_Discription(Optional). At the moment I'm having issues with the final line of this code when I try to put it in the database. I'm hoping to resolve this in class Tuesday. I figured I'd submit just the folder because It would be easier to put the database into the UI project than the UI into the Database project.
