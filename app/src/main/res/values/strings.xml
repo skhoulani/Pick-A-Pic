@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pick-A-Pic</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_sleep">Sleep</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_gym">Gym</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_study">Study</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_commute">Commute</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

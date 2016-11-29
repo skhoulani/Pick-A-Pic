@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.consamcon.pick_a_pic.MainActivity">
+
+    <TextView
+        android:id="@+id/study"
+        android:layout_height="250dp"
+        android:layout_width="fill_parent"
+        android:background="@color/category_study"
+        android:text="@string/category_study"
+        style ="@style/CategoryStyle"/>
+
+    <TextView
+        android:id="@+id/sleep"
+        android:layout_height="100dp"
+        android:layout_width="fill_parent"
+        android:background="@color/category_sleep"
+        android:text="@string/category_sleep"
+        style ="@style/CategoryStyle"/>
+
+    <TextView
+        android:id="@+id/gym"
+        android:layout_height="100dp"
+        android:layout_width="fill_parent"
+        android:background="@color/category_gym"
+        android:text="@string/category_gym"
+        style ="@style/CategoryStyle"/>
+
+    <TextView
+        android:id="@+id/commute"
+        android:layout_height="100dp"
+        android:layout_width="fill_parent"
+        android:background="@color/category_commute"
+        android:text="@string/category_commute"
+        style ="@style/CategoryStyle"/>
+
+</LinearLayout>
