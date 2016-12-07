@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cd36e6a00e4d6baae2442aefeee60b20725cf7a3">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa795f083929dd2013bc2e6fece6c894a5d3163f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_77a9e7b0ff5a7c42572ade70a849e46fc886f46f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_13ba4cecbcfdc717eb38a9785e3ca43fdde8887b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_72a63b71035aea2c088f6f1a5c751e4783abc792/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_214c1d3ffb74dc3abfeeaf6cb1247d4c87e27dc3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fc7fac92256e9a35f0a3f1bae9709392bdef5f29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8baa984b66bc9184ffbb21147a2fc58957ffdad9">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b4f2977e56c7560910733de306b88fbe5b289c03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_4fc47661968e295b34103b98629fdff2101f5d58/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fcdbb03a6c09ad985e0529cd7f036c4b3efb27cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3150e37ef83084c2cd822cc37f6a22e47bcae456/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6a5c91e3a6d4012b370f25d1966336f572434a5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b9b1bfedecbf5c833d0eba37806ec4044a51e863/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_5ad30d37e76987892318f78935d5e103be2d173d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e1343289f7cacce5f6290023b8f380b14cfc49a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_bed5a596d3e58474c26e36ef6b26c9737a36dd12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_18aba6be100e258c46437933279cee0f0c80a1ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Samir/AndroidStudioProjects/final project/Pick-A-Pic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_b3d1df9c824298690200a3ea8459b369e2748898/classes.dex" />
+    </item>
+
+</items>
