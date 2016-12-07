@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.consamcon.pick_a_pic.MainActivity">
+
+
+    <TextView
+        style="@style/SettingsStyle"
+        android:text="@string/menu_settings" />
+
+    <TextView
+        style="@style/SubSettingsStyle"
+        android:text="@string/settings_music" />
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="32dp">
+        <RadioButton android:id="@+id/radio_on"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_option_1"
+            android:checked="true">
+        </RadioButton>
+        <RadioButton android:id="@+id/radio_off"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_option_2">
+        </RadioButton>
+    </RadioGroup>
+</LinearLayout>
