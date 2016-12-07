@@ -14,7 +14,12 @@ Android App Final Project
 
 *First Milestone - I’ve worked on the Database. I now have small database that has Tokens for the picture ID, Category, and descriptions. The descriptions get more general as they go on so that people can get more points for degree of difficulty. Right now the database is in Microsoft Access but I plan on converting it to something that Java can read. I also have queries to find a random object then find objects that have the same category to increase difficulty.*
 
-***Connor McGrory***: *Second Milestone - I have uploaded the Java code for the main functionality of the game.  I have been attempting to find the best method for converting my code written for pc, over to Android Studio.  Unfortunately I've been encountering lots of problems with the conversion.  I tried using a bitmap at first to edit the individual pixels of an ImageView.  This worked but was very slow.  I am currently trying various other methods and will select the best one for the final product.*
+
+***Connor McGrory***: 
+*Third Milestone - I continued working on my section.  Now, I have figured a way to run my program on an app.  Essentially, the program will generate 10 or so photos of the pixelizing effect at certain stages of the process.  Then the 10 photos will be "animated" to the user, generating the focus effect.  I have a small test app I made to demonstrate this.  It is in the folder PictureTechniques.*
+
+
+*Second Milestone - I have uploaded the Java code for the main functionality of the game.  I have been attempting to find the best method for converting my code written for pc, over to Android Studio.  Unfortunately I've been encountering lots of problems with the conversion.  I tried using a bitmap at first to edit the individual pixels of an ImageView.  This worked but was very slow.  I am currently trying various other methods and will select the best one for the final product.*
 
 
 *First Milestone - I have created the image pixelizer program that will be used as the main game feature for this project.  When the program is run, the image is drawn using only a few large pixels (averaging all underlying colors).  Slowly the number of pixels is increased giving a “coming into focus” effect.  I wrote all of this in Java, but not in Android Studio.  It started as a computer application so I will need to make major changes to make it compatible.*
