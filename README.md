@@ -13,7 +13,7 @@ Android App Final Project
 *First Milestone - I have created the image pixelizer program that will be used as the main game feature for this project.  When the program is run, the image is drawn using only a few large pixels (averaging all underlying colors).  Slowly the number of pixels is increased giving a “coming into focus” effect.  I wrote all of this in Java, but not in Android Studio.  It started as a computer application so I will need to make major changes to make it compatible.*
 
 ***Samir Khoulani***:  
-![goat](https://github.com/uml-app1-2016/Pick-A-Pic/blob/Second-Milestone/mainMenu.png);
+![goat](https://github.com/uml-app1-2016/Pick-A-Pic/blob/Second-Milestone/mainMenu.png)
 
 The next item of business was to actually create a basic UI. The current design involves a title screen with three buttons. A "Start Game" button, "High Scores" button, and a "Settings" button. Respectively, the buttons will start the game, show high scores, and allow the user to turn the music on or off. Currently, we are deciding between using a three heart system or a system that uses unlimited tries to get the answer correct. We are leaning towards implementing google play APIs for the high scores page.
 
