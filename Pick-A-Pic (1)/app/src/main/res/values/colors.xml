@@ -23,5 +23,6 @@
     <color name="menu_scores">#241E4E</color>
     <color name="menu_settings">#960200</color>
     <color name="win_color">#ffb41e</color>
+    <color name="white">#FFFFFF</color>
 
 </resources>

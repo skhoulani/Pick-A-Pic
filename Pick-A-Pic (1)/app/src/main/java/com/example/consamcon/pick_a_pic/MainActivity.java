@@ -3,13 +3,17 @@ package com.example.consamcon.pick_a_pic;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.net.Uri;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 
 import com.example.consamcon.pick_a_pic.data.ImageContract;
 
 public class MainActivity extends AppCompatActivity {
+
+    private Handler myHandler = new Handler();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,7 +24,42 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
+        Runnable timedTask = new Runnable() {
+            public void run() {
+                cycleImage();
+            }
+        };
+        new Thread(timedTask).start();
+    }
+    int current = 10;
+    int res = R.drawable.pickapic10;
+    private void cycleImage() {
+        final ImageView image = (ImageView) findViewById(R.id.titleImage);
+        while(current >= 0) {
+            if (current == 10) res = R.drawable.pickapic9;
+            if (current == 9) res = R.drawable.pickapic8;
+            if (current == 8) res = R.drawable.pickapic7;
+            if (current == 7) res = R.drawable.pickapic6;
+            if (current == 6) res = R.drawable.pickapic5;
+            if (current == 5) res = R.drawable.pickapic4;
+            if (current == 4) res = R.drawable.pickapic3;
+            if (current == 3) res = R.drawable.pickapic2;
+            if (current == 2) res = R.drawable.pickapic1;
+            if (current == 1) res = R.drawable.pickapic0;
+            current--;
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
 
+            myHandler.post(new Runnable() {
+                @Override
+                public void run() {
+                    image.setImageResource(res);
+                }
+            });
+        }
     }
 
     public void loadGame(View view) {

@@ -9,13 +9,12 @@
     tools:context="com.example.consamcon.pick_a_pic.MainActivity">
     
     <ImageView
-    android:id="@+id/brady"
+    android:id="@+id/titleImage"
     android:layout_width="fill_parent"
     android:layout_height="275dp"
-    android:background="@color/game_background"
+    android:background="@color/white"
     
-    
-    android:src="@drawable/brady"/>
+    android:src="@drawable/pickapic10"/>
     
     <TextView
         android:id="@+id/menu_play"

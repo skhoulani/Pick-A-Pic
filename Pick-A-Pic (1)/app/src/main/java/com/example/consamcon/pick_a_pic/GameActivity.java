@@ -21,6 +21,9 @@ public class GameActivity extends AppCompatActivity {
     int current = 10;
     int resID;
     int i, correctIndex;
+    int roundNumber = 1;
+    int score;
+    boolean roundDone = false;
     ArrayList<String> randRefList;
     ArrayList<String> randDiscList;
     @Override
@@ -34,7 +37,7 @@ public class GameActivity extends AppCompatActivity {
         cursor.moveToFirst();
         randRefList = getRefArray(cursor);
         randDiscList = getDiscArray(cursor);
-
+        score = 0;
         i = 0;
         resID = getResources().getIdentifier(randRefList.get(i) + "10", "drawable", getPackageName());
 
@@ -87,8 +90,16 @@ public class GameActivity extends AppCompatActivity {
         selected(2);
     }
 
+    private void updateScore() {
+        TextView scoreText = (TextView) findViewById(R.id.scoreText);
+        scoreText.setText("Score: " + score);
+    }
+
     private void selected(int selection) {
+        roundDone = true;
         if(selection == correctIndex) {
+            score += current;
+            updateScore();
             //TODO you win!
         }
         TextView correct;
@@ -99,8 +110,37 @@ public class GameActivity extends AppCompatActivity {
         correct.setBackgroundColor(getResources().getColor(R.color.win_color));
 
         current = 1;
+
     }
 
+    public void loadNextRound(View view) {
+        if(!roundDone) return;
+        roundDone = false;
+        TextView correct;
+        if(correctIndex == 0) correct = (TextView) findViewById(R.id.option1);
+        else if(correctIndex == 1) correct = (TextView) findViewById(R.id.option2);
+        else correct = (TextView) findViewById(R.id.option3);
+        correct.setBackgroundColor(getResources().getColor(correctIndex == 1 ? R.color.menu_play : R.color.menu_scores));
+
+        roundNumber++;
+        if(roundNumber == 6) {
+            //TODO exit Activity
+        }
+        i++;
+        resID = getResources().getIdentifier(randRefList.get(i) + "10", "drawable", getPackageName());
+
+        ImageView imageView = (ImageView) findViewById(R.id.image);
+        imageView.setImageResource(resID);
+        updateOptions();
+
+        Runnable timedTask = new Runnable() {
+            public void run() {
+                current = 10;
+                cycleImage();
+            }
+        };
+        new Thread(timedTask).start();
+    }
 
     private void cycleImage() {
         final ImageView image = (ImageView) findViewById(R.id.image);
