@@ -11,27 +11,31 @@
 
     <TextView
         style="@style/SettingsStyle"
-        android:text="@string/menu_settings" />
+        android:text="@string/menu_instructions" />
 
     <TextView
-        style="@style/SubSettingsStyle"
-        android:text="@string/settings_music" />
+        style="@style/InstructionsStyle"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/instructions_howtoplay" />
 
-    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:padding="32dp">
-        <RadioButton android:id="@+id/radio_on"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/settings_option_1"
-            android:checked="true">
-        </RadioButton>
-        <RadioButton android:id="@+id/radio_off"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/settings_option_2">
-        </RadioButton>
-    </RadioGroup>
+    <!--<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:padding="32dp">-->
+        <!--<RadioButton android:id="@+id/radio_on"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/settings_option_1"-->
+            <!--android:checked="true">-->
+        <!--</RadioButton>-->
+        <!--<RadioButton android:id="@+id/radio_off"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/settings_option_2">-->
+        <!--</RadioButton>-->
+    <!--</RadioGroup>-->
 </LinearLayout>

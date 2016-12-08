@@ -29,12 +29,12 @@
         style ="@style/MenuStyle"/>
 
     <TextView
-        android:id="@+id/gameover_playagain"
+        android:id="@+id/gameover_mainmenu"
         android:layout_height="match_parent"
         android:layout_weight="2"
         android:layout_width="fill_parent"
-        android:background="@color/gameover_playagain"
-        android:text="@string/gameover_playagain"
+        android:background="@color/gameover_mainmenu"
+        android:text="@string/gameover_mainmenu"
         android:gravity="center"
         android:onClick="loadSettings"
         style ="@style/MenuStyle"/>

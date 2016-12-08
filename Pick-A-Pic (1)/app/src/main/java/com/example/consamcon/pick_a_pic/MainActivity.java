@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.example.consamcon.pick_a_pic.data.ImageContract;
 
@@ -67,6 +68,18 @@ public class MainActivity extends AppCompatActivity {
 
         // Start the new activity
         startActivity(gameIntent);
+    }
+
+    boolean firstTime = true;
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if (!firstTime) {
+            TextView t = (TextView) (findViewById(R.id.menu_play));
+            t.setText("Hellow world");
+        }
+        else
+            firstTime = false;
     }
 
     public void loadScores(View view){

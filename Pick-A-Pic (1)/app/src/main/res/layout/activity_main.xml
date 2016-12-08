@@ -44,7 +44,7 @@
         android:layout_weight="0.3"
         android:layout_width="fill_parent"
         android:background="@color/menu_settings"
-        android:text="@string/menu_settings"
+        android:text="@string/menu_instructions"
         android:gravity="center"
         android:onClick="loadSettings"
         style ="@style/MenuStyle"/>
