@@ -1,0 +1,982 @@
+[
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady.PNG",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady.PNG"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/mona.PNG",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/mona.PNG"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/kitten3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/kitten3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/chimpanzee1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/chimpanzee1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lemur3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lemur3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/bear4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/bear4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/brady0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/brady0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/canada6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/canada6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/fish7.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/fish7.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza9.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza9.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/gorilla3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/gorilla3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/obama10.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/obama10.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pizza3.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pizza3.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/dog0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/dog0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/panda0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/panda0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/phone8.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/phone8.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic6.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic6.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/usa1.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/usa1.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/africa2.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/africa2.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/biden5.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/biden5.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/lion0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/lion0.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/asia4.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/asia4.png"
+    },
+    {
+        "merged": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/res/merged/debug/drawable/pickapic0.png",
+        "source": "/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/src/main/res/drawable/pickapic0.png"
+    }
+]
