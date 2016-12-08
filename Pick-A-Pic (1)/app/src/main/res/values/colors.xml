@@ -28,7 +28,7 @@
     <color name="gameover">#960200</color>
     <color name="gameover_highscore">#241E4E</color>
     <color name="gameover_share">#241E4E</color>
-    <color name="gameover_mainmenu">#241E4E</color>
+    <color name="gameover_playagain">#241E4E</color>
 
 
 </resources>

@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void loadGame(View view) {
+        justPlayed = true;
         Intent gameIntent = new Intent(MainActivity.this, GameActivity.class);
 
         // Start the new activity
@@ -71,12 +72,18 @@ public class MainActivity extends AppCompatActivity {
     }
 
     boolean firstTime = true;
+    boolean justPlayed = false;
     @Override
     protected void onResume() {
         super.onResume();
         if (!firstTime) {
-            TextView t = (TextView) (findViewById(R.id.menu_play));
-            t.setText("Hellow world");
+            if (justPlayed) {
+
+                justPlayed = false;
+                Intent gameOverIntent = new Intent(MainActivity.this, GameOverActivity.class);
+                startActivity(gameOverIntent);
+            }
+
         }
         else
             firstTime = false;

@@ -93,6 +93,7 @@ public class GameActivity extends AppCompatActivity {
     private void updateScore() {
         TextView scoreText = (TextView) findViewById(R.id.scoreText);
         scoreText.setText("Score: " + score);
+        HomeActivity.highScore = score;
     }
 
     private void selected(int selection) {
@@ -124,7 +125,9 @@ public class GameActivity extends AppCompatActivity {
 
         roundNumber++;
         if(roundNumber == 6) {
-            //TODO exit Activity
+            HomeActivity.highScore = score;
+            this.finish();
+            return;
         }
         i++;
         resID = getResources().getIdentifier(randRefList.get(i) + "10", "drawable", getPackageName());

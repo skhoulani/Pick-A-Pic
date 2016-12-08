@@ -26,5 +26,5 @@
     <string name="gameover">Game Over!</string>
     <string name="gameover_highscore">Score:</string>
     <string name="gameover_share">Share</string>
-    <string name="gameover_mainmenu">Play again</string>
+    <string name="gameover_playagain">Play again</string>
 </resources>

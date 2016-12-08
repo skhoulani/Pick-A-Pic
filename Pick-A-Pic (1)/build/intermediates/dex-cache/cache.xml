@@ -19,7 +19,7 @@
         jar="/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="c7323874c39cc9dc2100c2ea499ec40a4492d82b">
+        sha1="7d0729df3113938d28733b9d7a5c92725e0a809e">
         <dex dex="/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4398745af9fd385b0a319a82c8f1a1e920ddea00/classes.dex" />
     </item>
     <item
@@ -68,7 +68,7 @@
         jar="/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="96d356fbf2cc4c4bd7e728ce100bd72e9aa76f76">
+        sha1="39d69f1a4b1c4c20030ba1125e2bb170f3cee3f1">
         <dex dex="/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_722868506c08c4d8ec94c28a710246b57164fb8a/classes.dex" />
     </item>
     <item

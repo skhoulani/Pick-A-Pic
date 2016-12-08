@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.TextView;
 
 public class GameOverActivity extends AppCompatActivity {
 
@@ -12,7 +13,17 @@ public class GameOverActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game_over);
 
+        TextView t = (TextView)(findViewById(R.id.gameover_high_score));
+        t.setText("Score: " + HomeActivity.highScore);
+
     }
+
+    public void loadMainMenu (View view) {
+
+        this.finish();
+
+    }
+
     public void shareScore(View view) {
         Intent emailIntent = new Intent(android.content.Intent.ACTION_SEND);
         emailIntent.setType("text/plain");
