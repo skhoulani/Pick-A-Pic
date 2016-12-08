@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.consamcon.pick_a_pic.GameActivity">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="fill_parent"
+        android:layout_height="275dp"
+        android:background="@color/menu_play"
+
+
+        android:src="@drawable/brady"/>
+
+    <TextView
+        android:id="@+id/option1"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:layout_width="fill_parent"
+        android:background="@color/menu_scores"
+        android:text="Option 1"
+        android:gravity="center"
+        android:onClick="selectOptionOne"
+        style ="@style/MenuStyle"/>
+
+    <TextView
+        android:id="@+id/option2"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:layout_width="fill_parent"
+        android:background="@color/menu_play"
+        android:text="Option 2"
+        android:gravity="center"
+        android:onClick="selectOptionTwo"
+        style ="@style/MenuStyle"/>
+
+    <TextView
+        android:id="@+id/option3"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:layout_width="fill_parent"
+        android:background="@color/menu_scores"
+        android:text="Option 3"
+        android:gravity="center"
+        android:onClick="selectOptionThree"
+        style ="@style/MenuStyle"/>
+
+</LinearLayout>
