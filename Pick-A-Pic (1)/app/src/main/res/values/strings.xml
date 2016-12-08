@@ -21,4 +21,11 @@
     <string name="settings_music">Music</string>
     <string name="settings_option_1">On</string>
     <string name="settings_option_2">Off</string>
+
+    <string name="share_subject">Guess what?!!</string>
+
+    <string name="gameover">Game Over!</string>
+    <string name="gameover_highscore">Score:</string>
+    <string name="gameover_share">Share</string>
+    <string name="gameover_playagain">Play again</string>
 </resources>

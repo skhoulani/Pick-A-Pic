@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a2811739b51a0aaa05acc3494941366e377a5991">
+        <dex dex="/Users/Samir/AndroidStudioProjects/Pick-A-Pic/Pick-A-Pic (1)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_722868506c08c4d8ec94c28a710246b57164fb8a/classes.dex" />
+    </item>
+
+</items>

@@ -25,4 +25,10 @@
     <color name="win_color">#ffb41e</color>
     <color name="white">#FFFFFF</color>
 
+    <color name="gameover">#960200</color>
+    <color name="gameover_highscore">#241E4E</color>
+    <color name="gameover_share">#241E4E</color>
+    <color name="gameover_playagain">#241E4E</color>
+
+
 </resources>
