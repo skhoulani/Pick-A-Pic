@@ -11,6 +11,8 @@ import android.app.Activity;
 
 public class HomeActivity extends Activity {
 
+    public static int highScore = 0;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
