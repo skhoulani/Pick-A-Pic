@@ -5,6 +5,10 @@ Android App Final Project
 The folder labeled "Pick-a-Pic (1)" is our finished app.  
 The link to the video demo is here:  
 https://www.youtube.com/watch?v=irRC4kL9_u0  
+The link for our final paper can be found here.  
+https://docs.google.com/document/d/1vK-qfez-sYCUXcle15I0ISnnRY3zEAVT5VS_mSyAoyE/edit?usp=sharing  
+The link for our presentation slides can be found here:  
+https://docs.google.com/presentation/d/1q-hCzC6Q9ho1EZrvHbuaHRu577VM4jbcEE8JRY368Zg/edit?usp=sharing  
 
 
 ***Connor McLaughlin***: 
