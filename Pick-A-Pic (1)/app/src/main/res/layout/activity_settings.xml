@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.consamcon.pick_a_pic.MainActivity">
+
+
+    <TextView
+        style="@style/SettingsStyle"
+        android:text="@string/menu_instructions" />
+
+    <TextView
+        style="@style/InstructionsStyle"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/instructions_howtoplay" />
+
+    <TextView
+        android:id="@+id/highScore"
+        android:layout_height="match_parent"
+        android:layout_width="fill_parent"
+        android:textColor="@color/white"
+        android:textSize="50dp"
+        android:text="High Score: "
+        android:gravity="center"
+        style ="@style/MenuStyle"/>
+
+
+</LinearLayout>

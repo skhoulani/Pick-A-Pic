@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.consamcon.pick_a_pic.MainActivity">
+    
+    <ImageView
+    android:id="@+id/titleImage"
+    android:layout_width="fill_parent"
+    android:layout_height="275dp"
+    android:background="@color/white"
+    
+    android:src="@drawable/pickapic10"/>
+    
+    <TextView
+        android:id="@+id/menu_play"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:layout_width="fill_parent"
+        android:background="@color/menu_play"
+        android:text="@string/menu_play"
+        android:gravity="center"
+        android:onClick="loadGame"
+         style ="@style/MenuStyle"/>
+    
+    <TextView
+        android:id="@+id/menu_scores"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:layout_width="fill_parent"
+        android:background="@color/menu_scores"
+        android:text="@string/menu_scores"
+        android:gravity="center"
+        android:onClick="loadScores"
+        style ="@style/MenuStyle"/>
+    
+    <TextView
+        android:id="@+id/menu_settings"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:layout_width="fill_parent"
+        android:background="@color/menu_settings"
+        android:text="@string/menu_instructions"
+        android:gravity="center"
+        android:onClick="loadSettings"
+        style ="@style/MenuStyle"/>
+    
+</LinearLayout>

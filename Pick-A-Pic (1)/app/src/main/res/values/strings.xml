@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pick-A-Pic</string>
+
+    <string name="home">High Score</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_gym">Gym</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_study">Study</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_commute">Commute</string>
+
+    <string name="menu_play">Play Game</string>
+
+    <string name="menu_scores">High Score</string>
+
+    <string name="menu_instructions">Instructions</string>
+
+    <string name="instructions_howtoplay">To play Pick-A-Pic, choose the correct picture in the least amount of time. To move to the next level, simply tap the picture on screen.</string>
+
+
+    <string name="share_subject">Guess what?!!</string>
+
+    <string name="gameover">Game Over!</string>
+    <string name="gameover_highscore">Score:</string>
+    <string name="gameover_share">Share</string>
+    <string name="gameover_playagain">Play again</string>
+</resources>
