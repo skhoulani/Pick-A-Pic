@@ -1,6 +1,10 @@
 # Pick-A-Pic
 Android App Final Project
-### Second Milestone:
+
+***READ ME!***
+The folder labeled "Pick-a-Pic (1)" is our finished app;
+The link to the video demo is here:
+https://www.youtube.com/watch?v=irRC4kL9_u0
 
 
 ***Connor McLaughlin***: 
